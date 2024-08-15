@@ -90,18 +90,27 @@ content:
       - layout: text
         title: Jawaharlal Nehru Technological University
         caption: Bachelor of Technology, Computer Science and Engineering
+        description: During my degree at JNTU, I developed a strong foundation in computer science and engineering, including advanced data structures, algorithms, problem solving and programming languages. I also gained experience in software development, database management, and system design.
 
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: text
-        title: AWS Certified Developer
+        title: AWS Certified Developer (2018 edition)
+        description: | # this will include new lines to allow paragraphs
+          AWS Certified Developer - Associate validates technical expertise in developing and maintaining applications on the AWS platform. This certification is intended for individuals who perform a development role and have one or more years of hands-on experience developing and maintaining an AWS-based application.
       - layout: text
         title: Certified SAFe® 4 Practitioner
+        description: | # this will include new lines to allow paragraphs
+          The SAFe® Practitioner certification program is for software developers, testers, product managers, and product owners. The certification covers the principles of the Agile framework, Lean thinking, and product development flow.
       - layout: text
         title: Microsoft certified HTML 5/CSS 3, JS Associate
+        description: | # this will include new lines to allow paragraphs
+          The Microsoft Certified HTML5, CSS3, and JavaScript certification is for developers who have a minimum of one to two years of experience developing HTML, CSS, and JavaScript applications.
       - layout: text
         title: Domain Driven Design, API Standards 101, 201
+        description: | # this will include new lines to allow paragraphs
+          Domain-Driven Design (DDD) is an approach to software development that aligns the domain model with the business domain. API Standards 101, 201 are courses that cover the basics of API design and development, including RESTful and GraphQL APIs.
 
   - title: Skills # Title for the section
     layout: text
