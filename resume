@@ -1,0 +1,53 @@
+SUDHIR PULLANNAGARI(HE/HIM)
+sudhir.123reddy@hotmail.com	             	+17323185377
+
+SUMMARY: 
+Experienced, motivated and highly skilled backend developer with over a decade of expertise, naturally inclined to tackle and solve problems, adept at leading the design and development of complex, mission-critical applications, optimizing performance, and implementing best practices.
+
+EDUCATION
+Bachelor of Technology, Computer Science and Engineering (Jawaharlal Nehru Technological University)
+
+
+TRAININGS AND CERTIFICATIONS
+AWS Certified Developer
+Certified SAFe® 4 Practitioner
+Microsoft certified HTML 5/CSS 3, JS Associate
+Domain Driven Design, API Standards 101, 201
+
+TOOLS, PROCESSES AND TECHNOLOGIES
+Python3, Java 8, JSON, YAML, Spring, Hibernate, Redis, Kafka, SQL/NoSQL, PLSQL, Oracle, Mongo DB, Kubernetes, Docker, UNIX, Shell Script, github, RESTful, GraphQl, SOAP, Jenkins, kubernetes, NewRelic, Splunk, TDD/BDD, Opensearch, AWS Services (Lambda, Kinesis, ECS, EC2, S3, RDS, API GW, SNS/SQS, elasticsearch, DynamoDB, Cloudwatch, etc.), Terraform, OAuth 2.0
+
+
+
+EXPERIENCE
+Lead Software Engineer –Merchandising Platform, NIKE, INC 					APR 2017 – PRESENT
+	Designed and developed marketplace aggregation for Geo, Country aggregations enabling efficient line planning and resulted in annual savings of ~18M for additional geo/country maintenance and operations
+	Designed and developed a generic template(cookie-cutter) pattern for developing common backend for platform applications to increase the speed of delivery and promote consistency, extensibility to add/choose more capabilities
+	Steered design and architecture decisions by engaging in PoC projects and strategic sessions, enhancing innovation and process efficiency.
+	Developed application(s) backend CRUD and Search for merch platform to support activities like planning of architecture of products, prioritization of those products for global and marketplaces, build/manage Assortments for all Channels, Retailers & consumer segments
+	Designed, implemented highly scalable RESTful and GraphQL merch platform services to handle ~30M requests per day
+	Integrated near real-time events and streaming from domain applications , transformed, aggregated for product data consumption using Python, Elasticsearch, Kinesis, and generic Kafka implementation(Nike Streaming Platform)
+	Employed Docker for containerization, enabling application debugging, volume sharing, and custom networking and skilled in deploying and managing applications on Kubernetes clusters using kubectl and Helm for streamlined orchestration
+	Implemented robust security the application divesting basic auth, designed and Implemented OAuth 2.0 with OpenID connect (OKTA), confidentiality for multiple applications, data and product images through Authorization Code and Client Credentials flows
+	Designed and implemented automated pricing microservices for country products adhering to local governing rules, carryover logic, global, geo attribution improving accuracy and saving about 30% of merchandisers, product line manger’s man hours
+	Mentored junior engineers, and performed code reviews for maintainability, extensibility, best practices, consistency
+	Automated regression testing, BDD using cucumber, fitnesse, behave, and TDD(unit testing) using, Junit, Mockito, pytest
+Applications Developer, Horizon BCBS NJ (Contract)					JUL 2016 – APR 2017
+	Designed & Developed backend for Member Dashboard for nurses to access member demographic, alerts, surveys, care plans, care gaps, claims, lab and medication information using NodeJS to enhance the customer experience and improve retention
+	Applied strong computer science fundamentals in data structures, algorithms, and programming languages to optimize project performance and data management
+	Implemented serverless architectures using AWS Lambda, optimizing function performance through efficient memory allocation and concurrent executions. This streamlined development, reduced infrastructure costs, and improved scalability.
+	Used Spring MVC, Spring Boot, Spring Batch, Spring RESTful modules for developing the backend applications and integrations
+	 Adhered to 12-Factor methodology for building and maintaining software-as-a-service apps
+	Lead migration of SVN to GITHUB, NEXUS to Artifactory for storing application code and artifacts
+	Designed database schemas for the application and introduced sharding, single table design (GSI) in dynamodb for performance
+	Implemented UUID(4, 5) generation for transactional record identification to enable optimal data modeling and design
+	Used Hibernate ORM features for developing DAO tier of the app for effective use of relational databases, second-level caching (MemcacheD)
+	Accustomed in applying DevOps methodologies, unifying software development and operations.
+Technology Analyst, Telstra Corporation/Global (Contract) 				AUG 2012 - APR 2016
+	Implemented multithreading to bill multiple accounts concurrently and generate invoices, validate the CDR usage flown in from the upstream mediation systems
+	Used Spring-JDBC to access the data from database server by implementing JDBCTemplate provided by spring framework
+	Used Spring JMS and ActiveMQ for data exchange between various subsystems
+	Developed XSD’s and WSDL files based on the Service Endpoint Interface and consumed SOAP services by generating stubs, marshaling/unmarshalling model objects using JAXB
+	Developed and tested stored procedures to implement business logic using TOAD
+	Developed user-friendly web-based GUI using HTML5, and CSS3, Used JavaScript, AJAX for client-side validations and efficient interactions
+	Implemented Spring MVC architecture, worked on developing the controller, Spring & Hibernate integration in Persistence Layer

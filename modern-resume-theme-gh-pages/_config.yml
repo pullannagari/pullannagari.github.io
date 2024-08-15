@@ -8,35 +8,21 @@ version: 1
 # Personal info
 name: Sudhir Pullannagari
 title: Lead Software Engineer
-email: sudhir.pullannagari@gmail.com
+email: sudhir.123reddy@hotmail.com
 website: https://pullannagari.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-#twitter_username: pullannagari
-github_username:  pullannagari
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-#instagram_username: jameswgrant
+github_username: pullannagari
 linkedin_username: sudhirreddyp
-# xing_username: jekyll
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -45,69 +31,85 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Sudhir and I'm a Lead Software Engineer at Product Merchandising department of Nike. I have worked at a number of companies gaining Experience in designing , developing complex, and deploying higly scalable, integrated, module-oriented applications using JAVA/J2EE, Python, Cloud technologies, and SOA with extensive knowledge in all phases of SDLC with demonstrated teamwork and leadership skills.
-
-  I am most skilled in: <mark>Java</mark> <mark>Python</mark> <mark>AWS</mark> <mark>NoSQL</mark> <mark>SQL</mark> <mark>Algorithms and Problem Solving</mark> and <mark>Scripting</mark>
+  Experienced, motivated and highly skilled backend developer with over a decade of expertise, naturally inclined to tackle and solve problems, adept at leading the design and development of complex, mission-critical applications, optimizing performance, and implementing best practices.
 
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Lead Software Engineer - Product Merchandising, NIKE, INC
+        title: Lead Software Engineer - Merchandising Platform, NIKE, INC
         link: nike.com
-        # link_text: boringcompany.com
         sub_title: Lead Software Engineer
         caption: April 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
-            ▪ Designed and developed marketplace aggregation for Geo, Country aggregations enabling efficient line planning and resulted in savings for
-            additional geo/country operations.
-            ▪ Integrated near real-time events and streaming from domain applications, transformed, aggregated, and provided highly scalable
-            domain/platform services for product data consumption using Java, Python, Elasticsearch, aws services.
-            ▪ Secured the application by divesting basic auth and designed, Implemented OKTA (OAuth 2.0) Authentication, OpenID connect for
-            Authorization, confidentiality for multiple applications, data and product images through authorization code and client credentials flows.
-            ▪ Modularized Line Management api into multiple business modules and migrated them to cloud using automated infrastructure creation,
-            ▪ Created CICD pipelines with terraform script and BMX Jenkins which reduced the infrastructure and maintenance cost by 1.5 mill ion annually.
-            ▪ Designed and implemented automated pricing microservices for country products adhering to local governing rules, carryover logi c, global,
-            geo attribution improving accuracy and saving merchandisers, product line manger’s man hours.
-            ▪ Designed and implemented POC’s for demand planning loop, adapters major design changes, flexible attribution models.
-            ▪ Integrated Log4j and SLF4j logging and infrastructure metric data into New Relic, created policies, alerts and dashboards.
-            ▪ Behavioral driven development, TDD and Unit testing using Junit, Mockito, Power Mock, cucumber, Fitnesse, behave, pytest.
+            ▪ Designed and developed marketplace aggregation for Geo, Country aggregations enabling efficient line planning and resulted in annual savings of ~18M for additional geo/country maintenance and operations.
+            ▪ Designed and developed a generic template(cookie-cutter) pattern for developing common backend for platform applications to increase the speed of delivery and promote consistency, extensibility to add/choose more capabilities.
+            ▪ Steered design and architecture decisions by engaging in PoC projects and strategic sessions, enhancing innovation and process efficiency.
+            ▪ Developed application(s) backend CRUD and Search for merch platform to support activities like planning of architecture of products, prioritization of those products for global and marketplaces, build/manage Assortments for all Channels, Retailers & consumer segments.
+            ▪ Designed, implemented highly scalable RESTful and GraphQL merch platform services to handle ~30M requests per day.
+            ▪ Integrated near real-time events and streaming from domain applications, transformed, aggregated for product data consumption using Python, Elasticsearch, Kinesis, and generic Kafka implementation(Nike Streaming Platform).
+            ▪ Employed Docker for containerization, enabling application debugging, volume sharing, and custom networking and skilled in deploying and managing applications on Kubernetes clusters using kubectl and Helm for streamlined orchestration.
+            ▪ Implemented robust security the application divesting basic auth, designed and Implemented OAuth 2.0 with OpenID connect (OKTA), confidentiality for multiple applications, data and product images through Authorization Code and Client Credentials flows.
+            ▪ Designed and implemented automated pricing microservices for country products adhering to local governing rules, carryover logic, global, geo attribution improving accuracy and saving about 30% of merchandisers, product line manger’s man hours.
+            ▪ Mentored junior engineers, and performed code reviews for maintainability, extensibility, best practices, consistency.
+            ▪ Automated regression testing, BDD using cucumber, fitnesse, behave, and TDD(unit testing) using, Junit, Mockito, pytest.
+
+      - layout: left
+        title: Applications Developer, Horizon BCBS NJ (Contract)
+        caption: July 2016 – April 2017
+        description: | # this will include new lines to allow paragraphs
+            ▪ Designed & Developed backend for Member Dashboard for nurses to access member demographic, alerts, surveys, care plans, care gaps, claims, lab and medication information using NodeJS to enhance the customer experience and improve retention.
+            ▪ Applied strong computer science fundamentals in data structures, algorithms, and programming languages to optimize project performance and data management.
+            ▪ Implemented serverless architectures using AWS Lambda, optimizing function performance through efficient memory allocation and concurrent executions. This streamlined development, reduced infrastructure costs, and improved scalability.
+            ▪ Used Spring MVC, Spring Boot, Spring Batch, Spring RESTful modules for developing the backend applications and integrations.
+            ▪ Adhered to 12-Factor methodology for building and maintaining software-as-a-service apps.
+            ▪ Lead migration of SVN to GITHUB, NEXUS to Artifactory for storing application code and artifacts.
+            ▪ Designed database schemas for the application and introduced sharding, single table design (GSI) in dynamodb for performance.
+            ▪ Implemented UUID(4, 5) generation for transactional record identification to enable optimal data modeling and design.
+            ▪ Used Hibernate ORM features for developing DAO tier of the app for effective use of relational databases, second-level caching (MemcacheD).
+            ▪ Accustomed in applying DevOps methodologies, unifying software development and operations.
+
+      - layout: left
+        title: Technology Analyst, Telstra Corporation/Global (Contract)
+        caption: August 2012 - April 2016
+        description: | # this will include new lines to allow paragraphs
+            ▪ Implemented multithreading to bill multiple accounts concurrently and generate invoices, validate the CDR usage flown in from the upstream mediation systems.
+            ▪ Used Spring-JDBC to access the data from database server by implementing JDBCTemplate provided by spring framework.
+            ▪ Used Spring JMS and ActiveMQ for data exchange between various subsystems.
+            ▪ Developed XSD’s and WSDL files based on the Service Endpoint Interface and consumed SOAP services by generating stubs, marshaling/unmarshalling model objects using JAXB.
+            ▪ Developed and tested stored procedures to implement business logic using TOAD.
+            ▪ Developed user-friendly web-based GUI using HTML5, and CSS3, Used JavaScript, AJAX for client-side validations and efficient interactions.
+            ▪ Implemented Spring MVC architecture, worked on developing the controller, Spring & Hibernate integration in Persistence Layer.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        title: Jawaharlal Nehru Technological University
+        caption: Bachelor of Technology, Computer Science and Engineering
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  - title: Certifications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: AWS Certified Developer
+      - layout: left
+        title: Certified SAFe® 4 Practitioner
+      - layout: left
+        title: Microsoft certified HTML 5/CSS 3, JS Associate
+      - layout: left
+        title: Domain Driven Design, API Standards 101, 201
 
-  - title: A Little More About Me
+  - title: Skills # Title for the section
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Python3, Java 8, JSON, YAML, Spring, Hibernate, Redis, Kafka, SQL/NoSQL, PLSQL, Oracle, Mongo DB, Kubernetes, Docker, UNIX, Shell Script, github, RESTful, GraphQl, SOAP, Jenkins, kubernetes, NewRelic, Splunk, TDD/BDD, Opensearch, AWS Services (Lambda, Kinesis, ECS, EC2, S3, RDS, API GW, SNS/SQS, elasticsearch, DynamoDB, Cloudwatch, etc.), Terraform, OAuth 2.0
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
 remote_theme: sproogen/resume-theme
