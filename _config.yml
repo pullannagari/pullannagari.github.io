@@ -87,20 +87,20 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: text
         title: Jawaharlal Nehru Technological University
         caption: Bachelor of Technology, Computer Science and Engineering
 
   - title: Certifications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: center
+      - layout: text
         title: AWS Certified Developer
-      - layout: center
+      - layout: text
         title: Certified SAFe® 4 Practitioner
-      - layout: center
+      - layout: text
         title: Microsoft certified HTML 5/CSS 3, JS Associate
-      - layout: center
+      - layout: text
         title: Domain Driven Design, API Standards 101, 201
 
   - title: Skills # Title for the section
