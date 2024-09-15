@@ -121,7 +121,7 @@ content:
 footer_show_references: true
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: minimal-mistakes/minimal-mistakes
 
 sass:
   sass_dir: _sass
